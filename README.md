@@ -1,4 +1,4 @@
-![MasterHead](https://gecdesigns.com/wallpapers/free/beautiful-fantasy-wallpaper-ultra-hd-wallpaper-4k-sr10012418)
+![MasterHead](https://asset.gecdesigns.com/img/wallpapers/beautiful-fantasy-wallpaper-ultra-hd-wallpaper-4k-sr10012418-1706506236698-cover.webp)
 
 <h1 align="center">Hi 👋, I'm Amitoj Singh Chawla</h1>
 <h3 align="center">A passionate Frontend developer and Machine Learning Enthusiast</h3>
