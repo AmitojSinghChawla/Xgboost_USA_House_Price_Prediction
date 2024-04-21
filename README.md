@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend developer and Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitojsinghchawla&label=Profile%20views&color=0e75b6&style=flat" alt="amitojsinghchawla" /> </p>
-(img align="right" alt="Coding" width="400" src="https://www.printmag.com/daily-heller/the-daily-heller-introducing-the-original-captain-american-sikh/")
+<img align="right" alt="Coding" width="400" src="https://unsplash.com/photos/monitor-showing-java-programming-OqtafYT5kTw">
 
 - 🌱 I’m currently learning **React,Js,Python**
 
